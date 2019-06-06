@@ -1,0 +1,88 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\GroupingAndCoveringDataApi\\GroupingAndCoveringDataApi.csproj",
+    "projectName": "GroupingAndCoveringDataApi",
+    "projectPath": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\GroupingAndCoveringDataApi\\GroupingAndCoveringDataApi.csproj",
+    "outputPath": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\GroupingAndCoveringDataApi\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+            "projectPath": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+          },
+          "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\Core.Common\\Core.Common.csproj": {
+            "projectPath": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\Core.Common\\Core.Common.csproj"
+          },
+          "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\Models\\Models.csproj": {
+            "projectPath": "C:\\Users\\adam.ras\\Documents\\Visual Studio 2017\\Projects\\RefactorToFunctional\\Models\\Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "ClosedXML": {
+          "target": "Package",
+          "version": "[0.94.2, )"
+        },
+        "DocumentFormat.OpenXml": {
+          "target": "Package",
+          "version": "[2.9.1, )"
+        },
+        "ExcelNumberFormat": {
+          "target": "Package",
+          "version": "[1.0.5, )"
+        },
+        "FastMember": {
+          "target": "Package",
+          "version": "[1.4.1, )"
+        },
+        "FastMember.Signed": {
+          "target": "Package",
+          "version": "[1.4.1, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
