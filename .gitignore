@@ -3,3 +3,15 @@
 ################################################################################
 
 /.idea/.idea.GroupingAndCoveringData/.idea
+/.idea/.idea.GroupingAndCoveringData
+/.vs/GroupingAndCoveringData
+/GroupingAndCoveringDataApi/bin/Debug/netcoreapp2.1/de
+/GroupingAndCoveringDataApi/bin/Debug/netcoreapp2.1
+/GroupingAndCoveringData/bin/Debug
+/UnitTests/obj/Debug
+/Models/obj/Debug
+/GroupingAndCoveringDataApi/obj/Debug/netcoreapp2.1
+/GroupingAndCoveringData/obj/Debug
+/Core.Common/obj/Debug
+/BusinessLogicLayer/obj/Debug
+/.vs/config
